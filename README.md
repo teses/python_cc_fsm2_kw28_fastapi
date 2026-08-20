@@ -1,5 +1,13 @@
 # python_cc_fsm2_kw28_fastapi
 
-mein projekt
+# Eingesetzte Python Module
 
-test
+- FastApi - Verarbeitet Routing, Requests und Responses
+- Pydantic - Validiert und modelliert die Daten
+- Uvicorn - Nimmt HTTP-Anfragen entgegen und startet die Python-Anwendung
+
+**Installation der Module**
+
+`pip install fastapi pydantic uvicorn`
+
+
