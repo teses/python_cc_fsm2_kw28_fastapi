@@ -1,5 +1,7 @@
 # python_cc_fsm2_kw28_fastapi
 
+Repository zum lernen und experemtieren mit der FastAPI Technologie
+
 # Eingesetzte Python Module
 
 - FastApi - Verarbeitet Routing, Requests und Responses
